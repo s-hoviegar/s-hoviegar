@@ -45,8 +45,9 @@
 
 ###
 
-<img align="right" height="130" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif"  />
-
+<a href="https://www.linkedin.com/in/sajjad-hoviegar" target="_blank">
+  <img align="right" height="130" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif"  />
+</a>
 ###
 
 <p align="left">📫 How to reach me:</p>
